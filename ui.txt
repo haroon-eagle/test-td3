@@ -1,1 +1,2 @@
 Amelioration de l'interface utilisateur
+deuxieme ligne ajoutee
